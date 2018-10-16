@@ -1,0 +1,14 @@
+{
+  "name": "CinepolisEx2",
+  "version": "1",
+  "description": "ex2",
+  "main": "index.js",
+  "repository": "git@github.com:MindInSky/cinepolis2.git",
+  "author": "MindInSky <kevin.a.muniz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "chimp": "^0.51.1"
+  }
+}
